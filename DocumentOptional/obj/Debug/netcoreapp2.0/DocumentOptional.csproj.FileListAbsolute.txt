@@ -1,0 +1,11 @@
+/Users/dale/Desktop/Cs Challenges/DocumentOptional/DocumentOptional/bin/Debug/netcoreapp2.0/DocumentOptional.deps.json
+/Users/dale/Desktop/Cs Challenges/DocumentOptional/DocumentOptional/bin/Debug/netcoreapp2.0/DocumentOptional.runtimeconfig.json
+/Users/dale/Desktop/Cs Challenges/DocumentOptional/DocumentOptional/bin/Debug/netcoreapp2.0/DocumentOptional.runtimeconfig.dev.json
+/Users/dale/Desktop/Cs Challenges/DocumentOptional/DocumentOptional/bin/Debug/netcoreapp2.0/DocumentOptional.dll
+/Users/dale/Desktop/Cs Challenges/DocumentOptional/DocumentOptional/bin/Debug/netcoreapp2.0/DocumentOptional.pdb
+/Users/dale/Desktop/Cs Challenges/DocumentOptional/DocumentOptional/obj/Debug/netcoreapp2.0/DocumentOptional.csprojAssemblyReference.cache
+/Users/dale/Desktop/Cs Challenges/DocumentOptional/DocumentOptional/obj/Debug/netcoreapp2.0/DocumentOptional.csproj.CoreCompileInputs.cache
+/Users/dale/Desktop/Cs Challenges/DocumentOptional/DocumentOptional/obj/Debug/netcoreapp2.0/DocumentOptional.AssemblyInfoInputs.cache
+/Users/dale/Desktop/Cs Challenges/DocumentOptional/DocumentOptional/obj/Debug/netcoreapp2.0/DocumentOptional.AssemblyInfo.cs
+/Users/dale/Desktop/Cs Challenges/DocumentOptional/DocumentOptional/obj/Debug/netcoreapp2.0/DocumentOptional.dll
+/Users/dale/Desktop/Cs Challenges/DocumentOptional/DocumentOptional/obj/Debug/netcoreapp2.0/DocumentOptional.pdb
